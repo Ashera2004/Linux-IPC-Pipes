@@ -232,4 +232,4 @@ void client() {
 <img width="793" height="501" alt="ex3_2" src="https://github.com/user-attachments/assets/13e0ea7c-e9f6-4ce8-bb7a-02cff328301a" />
 
 # RESULT:
-The program is executed successfully.
+Thus, the programs to implement communication between two processes using both unnamed pipes (Pipe API) and named pipes (FIFO API) are written and successfully verified using C programming.
